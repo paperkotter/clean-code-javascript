@@ -1,6 +1,6 @@
 # clean-code-javascript
 
-## Table of Contents123456123
+## Table of Contents123456123123
 
 1. [Introduction](#introduction)
 2. [Variables](#variables)
